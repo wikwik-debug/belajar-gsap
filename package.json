@@ -1,0 +1,16 @@
+{
+  "name": "belajar-gsap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "^3.9.1",
+    "parcel-bundler": "^1.12.5",
+    "sap": "^0.0.2",
+    "sass": "^1.49.7"
+  }
+}
